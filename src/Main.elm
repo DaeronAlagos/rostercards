@@ -405,6 +405,7 @@ viewIntro =
             , ul [ class "list-inside list-disc text-5xl lg:text-2xl" ]
                 [ li [] [ text "Stargrave" ]
                 , li [] [ text "Xenos Rampant" ]
+                , li [] [ text "Zone Raiders" ]
                 ]
             ]
         ]
